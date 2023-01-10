@@ -2,6 +2,8 @@
 
 A responsive, animated landing page concept for a volunteering/charity initiative, built with vanilla HTML, CSS and JavaScript.
 
+**Live demo:** https://ranjith-13.github.io/FairyTail/
+
 ## Features
 
 - Animated page preloader
@@ -20,6 +22,6 @@ A responsive, animated landing page concept for a volunteering/charity initiativ
 
 ## Run locally
 
-1. `git clone https://github.com/Ranjith-13/fairytail.git`
-2. `cd fairytail`
-3. Open `ft web.html` in your browser.
+1. `git clone https://github.com/Ranjith-13/FairyTail.git`
+2. `cd FairyTail`
+3. Open `index.html` in your browser.
