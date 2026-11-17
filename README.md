@@ -1,4 +1,4 @@
-﻿# FairyTail – Sharing Hearts
+﻿# FairyTail: Sharing Hearts
 
 A responsive, animated landing page concept for a volunteering/charity initiative, built with vanilla HTML, CSS and JavaScript.
 
